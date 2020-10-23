@@ -1,6 +1,6 @@
 # Michelangelo's GitHub progress
 This is just a simple graph showing my github stats so far.
-Goal: 200 commitments and A++ by end of fall.
+Goal: 200 commitments by the end of fall.
 
 ## **![Michelangelo's github stats](https://github-readme-stats.vercel.app/api?username=Michelangelo-Foschi&show_icons=true&theme=synthwave)**
 
